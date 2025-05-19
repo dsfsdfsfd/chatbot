@@ -1,3 +1,3 @@
 # chatbot
 
-template: [text](https://github.com/GiovanniGiacometti/python-repo-template)
+template: https://github.com/GiovanniGiacometti/python-repo-template
